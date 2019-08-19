@@ -1,0 +1,20 @@
+Raum auf matrix.org:        Adresse:
+talent-factory              #talent-factory:matrix.org
+
+User:       Pass:           Email:                          Bezeichnung:
+tf001       Berna-tf001     stefan.graf@talent-factory.ch
+tf002       Berna-tf002     ste11801@hotmail.com
+tf003       Berna-tf003                                     @tf003:matrix.org
+
+
+
+Passphrase tf002:   Wiederherstellungsschlüssel:
+tf002-schluessel    EsTr vT13 9cYE PaSY 1Xct zDNW 6uqZ Lm9t jYw1 ftMZ JkjE MMMD
+
+
+Mit riot.im im Web:
+https://riot.im/app/#/room/#talent-factory:matrix.org
+
+Room-Id talent-factory:
+!IDTxyVLBWnjXswzvrA
+

@@ -1,0 +1,37 @@
+<html>
+<head>
+    <title>VoIP Test</title>
+    <script src="lib/matrix.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="browserTest.js"></script>
+</head>
+<body>
+    <h2>VoIP: Voice und Video Test</h2>
+    You can place and receive calls with this example. First select a user:<br>
+    <button id="tf001">tf001</button>
+    <button id="tf002">tf002</button>
+    <button id="tf003">tf003</button>
+    <br><br>
+    <div id="config"></div>
+    <div id="result"></div>
+    <br>
+    <button id="call-video">Place Video Call</button>
+    <button id="call-audio">Place Audio Call</button>
+    <button id="answer">Answer Call</button>
+    <button id="hangup">Hangup Call</button>
+    <br><br>
+    <div>Remote video:</div>
+    <div id="videoBackground">
+        <div id="videoContainer">
+            <video id="remote"></video>
+        </div>
+    </div>
+    <br>
+    <div>Local video:</div>
+    <div id="videoBackground">
+        <div id="videoContainer">
+            <video id="local"></video>
+        </div>
+    </div>
+</body>
+</html>
