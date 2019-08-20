@@ -1,7 +1,8 @@
 # voip-voice
-Very basic voip test for video and voice connections
+Very basic test project for VoIP video and voice connections.
+This Web-App uses the *matrix.org* voip-server and the *talent-factory* room.
 
-To try it out, you must start a simple local HTTP server:
+Checkout the project and start a simple local HTTP server at the project root:
 
 ```
  $ python -m SimpleHTTPServer 8077
@@ -9,9 +10,7 @@ To try it out, you must start a simple local HTTP server:
 
 Then visit ``http://localhost:8077``
 
-This Web-App uses *the matrix.org* voip-server and the *talent-factory* room.
+Next select one of the three room members (tf001...).
 
-USAGE:
-First select one of the three room members.
-Then, after connecting to the server (syncing), you may initiate or answer a call to the talent-factory-room.
+After connecting to the server (syncing) as the selected member, you may initiate or answer a call to the talent-factory-room.
  
